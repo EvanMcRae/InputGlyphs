@@ -6,7 +6,7 @@ namespace InputGlyphs.Loaders
     public class SteamGamepadGlyphInitializer : MonoBehaviour
     {
 #if STEAMWORKS_NET && !DISABLESTEAMWORKS && SUPPORT_ADAPTER
-        private void Awake()
+        private void Start()
         {
             if (InputGlyphManager.HasLoader<SteamGamepadGlyphLoader>())
             {

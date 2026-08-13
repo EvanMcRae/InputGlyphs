@@ -19,7 +19,7 @@ namespace InputGlyphs.Loaders
         [SerializeField]
         private InputGlyphTextureMap _switchProControllerTextureMap = null;
 
-        private void Awake()
+        private void Start()
         {
             if (InputGlyphManager.HasLoader<GamepadGlyphLoader>())
             {
