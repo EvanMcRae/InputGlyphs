@@ -237,7 +237,7 @@ namespace InputGlyphs.Display
                     _packedTexture.width * rect.width,
                     _packedTexture.height * rect.height,
                     0,
-                    _packedTexture.height * rect.height * 0.8f,
+                    _packedTexture.height * rect.height * 0.9f,
                     _packedTexture.width * rect.width);
                 var glyphRect = new GlyphRect(
                     Mathf.FloorToInt(_packedTexture.width * rect.xMin),

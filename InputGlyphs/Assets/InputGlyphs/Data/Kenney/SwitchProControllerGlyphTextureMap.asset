@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0842a17aa4467994aa2c27872e4aac7b, type: 3}
+  m_Name: SwitchProControllerGlyphTextureMap
+  m_EditorClassIdentifier: 
+  TextureDetails:
+  - InputLayoutLocalPath: buttonEast
+    GlyphTexture: {fileID: 2800000, guid: 83471297380036b418b6e6b4ebc6e7e2, type: 3}
+  - InputLayoutLocalPath: buttonNorth
+    GlyphTexture: {fileID: 2800000, guid: cf49bb7673f97344d91c74851b929a59, type: 3}
+  - InputLayoutLocalPath: buttonSouth
+    GlyphTexture: {fileID: 2800000, guid: 7138b5fd74199b745970352fad59c3f3, type: 3}
+  - InputLayoutLocalPath: buttonWest
+    GlyphTexture: {fileID: 2800000, guid: 652ff39c9171b5841a85c2849950cc27, type: 3}
+  - InputLayoutLocalPath: capture
+    GlyphTexture: {fileID: 2800000, guid: cd309e4dd3c5f5f4693ec2916ea12980, type: 3}
+  - InputLayoutLocalPath: dpad
+    GlyphTexture: {fileID: 2800000, guid: 730d757c63a024a4d97389d9d2a2da30, type: 3}
+  - InputLayoutLocalPath: dpad/x
+    GlyphTexture: {fileID: 2800000, guid: 7df4277053828d94eb39adfb9db0f5d8, type: 3}
+  - InputLayoutLocalPath: dpad/y
+    GlyphTexture: {fileID: 2800000, guid: 42c242bce62d8fd4da978bcb252f4107, type: 3}
+  - InputLayoutLocalPath: dpad/up
+    GlyphTexture: {fileID: 2800000, guid: e280a276ece76e24e88a6584ade0390f, type: 3}
+  - InputLayoutLocalPath: dpad/down
+    GlyphTexture: {fileID: 2800000, guid: 3b948123ae83ed14dbe5e453afdf132e, type: 3}
+  - InputLayoutLocalPath: dpad/right
+    GlyphTexture: {fileID: 2800000, guid: fa8df0d7f7e1b1d4488891aeefaaddee, type: 3}
+  - InputLayoutLocalPath: dpad/left
+    GlyphTexture: {fileID: 2800000, guid: 5bb9e9f3a27a98a4189945dc6491e0f8, type: 3}
+  - InputLayoutLocalPath: home
+    GlyphTexture: {fileID: 2800000, guid: fb231716973df334bb6c1737abb47557, type: 3}
+  - InputLayoutLocalPath: leftStick
+    GlyphTexture: {fileID: 2800000, guid: b58c501c2cfd81e45ae943f7c7641444, type: 3}
+  - InputLayoutLocalPath: leftStick/x
+    GlyphTexture: {fileID: 2800000, guid: 417498b5b32f62941b7d8e3204302f37, type: 3}
+  - InputLayoutLocalPath: leftStick/y
+    GlyphTexture: {fileID: 2800000, guid: d8bb58e8de6fcd94aa93e479d1302eb6, type: 3}
+  - InputLayoutLocalPath: leftStick/down
+    GlyphTexture: {fileID: 2800000, guid: 6ac5b5cff47361847990033a9073f0b1, type: 3}
+  - InputLayoutLocalPath: leftStick/left
+    GlyphTexture: {fileID: 2800000, guid: 66c74b7ab52c9f74ba6bad990d408862, type: 3}
+  - InputLayoutLocalPath: leftStick/right
+    GlyphTexture: {fileID: 2800000, guid: bf7671858cdb52949b9b3b189424cabc, type: 3}
+  - InputLayoutLocalPath: leftStick/up
+    GlyphTexture: {fileID: 2800000, guid: 564cfcaaece53594bbb48b8dda4323e6, type: 3}
+  - InputLayoutLocalPath: leftStickPress
+    GlyphTexture: {fileID: 2800000, guid: 9c5fb094299eefe44ba8347d4f2dabc7, type: 3}
+  - InputLayoutLocalPath: rightStick
+    GlyphTexture: {fileID: 2800000, guid: 2d63449880be500469e9c28449f5107a, type: 3}
+  - InputLayoutLocalPath: rightStick/x
+    GlyphTexture: {fileID: 2800000, guid: 924793849c216b345ac4e659ee0ef3b6, type: 3}
+  - InputLayoutLocalPath: rightStick/y
+    GlyphTexture: {fileID: 2800000, guid: e15972fbb50246a40883066ac9be3aa3, type: 3}
+  - InputLayoutLocalPath: rightStick/down
+    GlyphTexture: {fileID: 2800000, guid: 46d44c2856377d6409360279ab02cec6, type: 3}
+  - InputLayoutLocalPath: rightStick/left
+    GlyphTexture: {fileID: 2800000, guid: 2d0ef5df41284d14785d1939b7e354db, type: 3}
+  - InputLayoutLocalPath: rightStick/right
+    GlyphTexture: {fileID: 2800000, guid: 2c8b34a5670dd324d9ffc5f670785c36, type: 3}
+  - InputLayoutLocalPath: rightStick/up
+    GlyphTexture: {fileID: 2800000, guid: 40c4404474255d2478aca56c1c4b4806, type: 3}
+  - InputLayoutLocalPath: rightStickPress
+    GlyphTexture: {fileID: 2800000, guid: 4445c552312224b4c9fad2be0f3736ff, type: 3}
+  - InputLayoutLocalPath: leftShoulder
+    GlyphTexture: {fileID: 2800000, guid: 9379747475183094f9f9526f82ffc4bb, type: 3}
+  - InputLayoutLocalPath: leftTrigger
+    GlyphTexture: {fileID: 2800000, guid: 2b3abea0d3969464cacc7a9361e754db, type: 3}
+  - InputLayoutLocalPath: rightShoulder
+    GlyphTexture: {fileID: 2800000, guid: 739045b213fb0794a9924a45fc67c98a, type: 3}
+  - InputLayoutLocalPath: rightTrigger
+    GlyphTexture: {fileID: 2800000, guid: 39d0b803d63efd842bbb2247397f6629, type: 3}
+  - InputLayoutLocalPath: select
+    GlyphTexture: {fileID: 2800000, guid: 739cfd21626ae9b4886b7e59e55c3fbc, type: 3}
+  - InputLayoutLocalPath: start
+    GlyphTexture: {fileID: 2800000, guid: 0b8297532d909ae4386bc6eb53ec7917, type: 3}
